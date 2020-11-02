@@ -1,11 +1,19 @@
 body{
-font-family: cursive;
+font-family: monospace
     color: aqua;
     
 }
-h2 {
-    color: bisque
+h1 {
+    color: brown
 }
-p {
-    color: blueviolet
+ol {
+    color: darkgreen
+}
+blockquote{
+    color: cadetblue
+}
+img {
+  max-width: 75%;
+  width: auto;
+  height: auto;
 }
