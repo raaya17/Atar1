@@ -1,19 +1,24 @@
 body{
-font-family: monospace
-    color: aqua;
-    
+font-family: 'Assistant';
+    font-size: 18px;
+
+}
+h2{
+    font-family: 'Amatic SC';
+    color: darkcyan;
 }
 h1 {
-    color: brown
+    color: brown;
 }
-ol {
-    color: darkgreen
-}
-blockquote{
-    color: cadetblue
+
+p2{
+    color: darkolivegreen;
+    font-family: 'Amatic SC';
+    font-size: 30px;
+    font-style: italic;
 }
 img {
-  max-width: 75%;
+  max-width: 100%;
   width: auto;
   height: auto;
 }
