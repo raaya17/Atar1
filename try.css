@@ -1,24 +1,32 @@
-body{
-font-family: 'Assistant';
+body {
+    font-family: 'Assistant';
     font-size: 18px;
 
 }
-h2{
+
+h2 {
     font-family: 'Amatic SC';
     color: darkcyan;
 }
+
 h1 {
     color: brown;
 }
 
-p2{
+p2 {
     color: darkolivegreen;
     font-family: 'Amatic SC';
     font-size: 30px;
     font-style: italic;
 }
+
 img {
-  max-width: 100%;
-  width: auto;
-  height: auto;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
 }
