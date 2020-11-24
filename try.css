@@ -1,16 +1,18 @@
 body {
     font-family: 'Assistant';
-    font-size: 18px;
+    font-size: 16px;
 
 }
 
 h2 {
     font-family: 'Amatic SC';
     color: darkcyan;
+    text-align: center;
 }
 
 h1 {
     color: brown;
+    text-align: center;
 }
 
 p2 {
@@ -29,4 +31,38 @@ img {
 .container {
     max-width: 800px;
     margin: auto;
+}
+
+.cta {
+    background-color: burlywood;
+    text-align: center;
+    padding: 15px;
+    padding-top: 10px;
+    margin-top: 15px;
+    font-size: 20px;
+
+}
+
+ .a {
+    background: #08c;
+  color: #fff;
+  text-decoration: none;
+  padding: 14px;
+     margin-top: 10px;
+     margin-bottom: 30 px;
+  display: inline-block;  
+}
+
+a {
+  color: brown  
+}
+
+.hala {
+     float: left;
+  margin-right: 10px;
+
+}
+
+a {
+    font-size: 20px;
 }
